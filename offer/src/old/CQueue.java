@@ -1,10 +1,12 @@
+package old;
+
 import java.util.LinkedList;
 import java.util.Stack;
 
 /**
  * @author Laurus
  * @Description
- * @ClassName CQueue
+ * @ClassName old.CQueue
  * @date 2023-05-07 18:24
  */
 public class CQueue {

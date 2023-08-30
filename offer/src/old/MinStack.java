@@ -1,9 +1,11 @@
+package old;
+
 import java.util.Stack;
 
 /**
  * @author Laurus
  * @Description
- * @ClassName MinStack
+ * @ClassName old.MinStack
  * @date 2023-05-07 18:36
  */
 public class MinStack {

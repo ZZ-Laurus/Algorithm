@@ -1,9 +1,9 @@
-import java.awt.*;
+package old;
 
 /**
  * @author Laurus
  * @Description
- * @ClassName _反转链表
+ * @ClassName old._反转链表
  * @date 2023-05-04 22:23
  */
 public class _反转链表 {

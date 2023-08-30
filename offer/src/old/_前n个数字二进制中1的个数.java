@@ -1,10 +1,12 @@
+package old;
+
 import java.lang.reflect.AnnotatedArrayType;
 import java.util.function.DoublePredicate;
 
 /**
  * @author Laurus
  * @Description
- * @ClassName _前n个数字二进制中1的个数
+ * @ClassName old._前n个数字二进制中1的个数
  * @date 2023-05-10 21:21
  */
 public class _前n个数字二进制中1的个数 {

@@ -1,4 +1,5 @@
-import java.util.HashMap;
+package old;
+
 import java.util.HashSet;
 
 public class _两个链表的公共节点 {

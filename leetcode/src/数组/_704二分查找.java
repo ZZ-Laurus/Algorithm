@@ -1,7 +1,9 @@
+package 数组;
+
 /**
  * @author Laurus
  * @Description
- * @ClassName _704二分查找
+ * @ClassName 数组._704二分查找
  * @date 2023-05-10 21:47
  */
 public class _704二分查找 {

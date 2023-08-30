@@ -1,3 +1,5 @@
+package old;
+
 /**
  * @author Laurus
  * @Description
@@ -19,7 +21,7 @@ public class _从尾到头打印链表 {
 //            return new int[0];
 //        }
 //        int count = 0;
-//        Stack<ListNode> stack = new Stack<>();
+//        Stack<old.ListNode> stack = new Stack<>();
 //        while (head!=null){
 //            stack.add(head);
 //            head = head.next;

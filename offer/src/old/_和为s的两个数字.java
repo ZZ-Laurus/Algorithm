@@ -1,3 +1,5 @@
+package old;
+
 import java.util.HashMap;
 
 public class _和为s的两个数字 {

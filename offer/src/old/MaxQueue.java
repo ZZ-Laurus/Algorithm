@@ -1,3 +1,5 @@
+package old;
+
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
@@ -5,7 +7,7 @@ import java.util.Queue;
 /**
  * @author Laurus
  * @Description
- * @ClassName MaxQueue
+ * @ClassName old.MaxQueue
  * @date 2023-05-07 18:36
  */
 public class MaxQueue {

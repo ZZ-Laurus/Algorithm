@@ -1,9 +1,11 @@
+package old;
+
 import java.util.HashMap;
 
 /**
  * @author Laurus
  * @Description
- * @ClassName _复杂链表的复制
+ * @ClassName old._复杂链表的复制
  * @date 2023-05-04 22:36
  */
 class Node {

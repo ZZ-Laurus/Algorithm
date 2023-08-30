@@ -1,3 +1,5 @@
+package old;
+
 public class _删除链表的节点 {
 
     public ListNode deleteNode(ListNode head, int val) {
