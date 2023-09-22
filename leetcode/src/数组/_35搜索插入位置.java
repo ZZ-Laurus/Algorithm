@@ -1,16 +1,13 @@
 package 数组;
 
-import sun.security.util.math.ImmutableIntegerModuloP;
-
 /**
  * @author Laurus
  * @Description
- * @ClassName 数组._704二分查找
- * @date 2023-05-10 21:47
+ * @ClassName _35搜索插入位置
+ * @date 2023-09-20 17:48
  */
-public class _704二分查找 {
-
-    public int search(int[] nums, int target) {
+public class _35搜索插入位置 {
+    public int searchInsert(int[] nums, int target) {
         int left = 0;
         int right = nums.length-1;
         while (left<=right){
@@ -24,7 +21,6 @@ public class _704二分查找 {
                 right = mid-1;
             }
         }
-        return -1;
-
+        return right+1;
     }
 }

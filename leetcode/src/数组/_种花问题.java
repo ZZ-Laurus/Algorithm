@@ -1,7 +1,12 @@
 package 数组;
 
 
+import com.sun.corba.se.spi.orbutil.threadpool.ThreadPool;
 import com.sun.deploy.util.ArrayUtil;
+
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.concurrent.*;
 
 /**
  * @author Laurus
@@ -26,7 +31,20 @@ public class _种花问题 {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1,0,0,0,1};
-        canPlaceFlowers(nums,1);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("输入字符串:");
+
+        //next():只读取输入直到空格。
+        String str = sc.next();
+
+        //nextLine():读取输入，包括单词之间的空格和除回车以外的所有符号
+        String str2 = sc.nextLine();
+
+        System.out.println("str：" + str);
+        System.out.println("str2：" + str2);
+
+        //关闭
+        sc.close();
+
     }
 }
